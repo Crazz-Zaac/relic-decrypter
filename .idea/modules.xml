@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CLangDecrypt.iml" filepath="$PROJECT_DIR$/.idea/CLangDecrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LinearA_Project_Code_Complete/.idea/LinearA_Project_Code_Complete.iml" filepath="$PROJECT_DIR$/../LinearA_Project_Code_Complete/.idea/LinearA_Project_Code_Complete.iml" />
+    </modules>
+  </component>
+</project>
